@@ -25,7 +25,7 @@ This project combines **machine learning**, **portfolio theory**, and **cryptocu
 ---
 
 ## 📂 Project Structure
-
+```bash
 📦 crypto-forecasting-PSO-CNN
 │
 ├── 📂 crypto_api/                  # Core of the API
@@ -78,7 +78,7 @@ This project combines **machine learning**, **portfolio theory**, and **cryptocu
 ├── `requirements.txt`              # Python dependencies
 
 
-
+```
 ---
 
 ## 🚀 Features
